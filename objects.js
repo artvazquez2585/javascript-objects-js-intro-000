@@ -1,3 +1,3 @@
 var playlist = {
-  "My Bloody Valentine" = 'Sometimes'
+  "My Bloody Valentine" : 'Sometimes'
 }
